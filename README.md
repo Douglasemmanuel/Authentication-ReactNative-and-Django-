@@ -1,2 +1,2 @@
-# netflix-clone
-Netflix-clone  using ReactNative And Django
+# Authentication App
+Authentication  using ReactNative And Django
